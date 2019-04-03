@@ -1,2 +1,2 @@
 INTRODUCTION:
-  Through the distortion caused by the bond angles we have proven that compounds NiSeO3, NiTeO3, CoSeO3, and CoTeO3 are in fact Perovskite salts.
+  Through the distortion caused by the bond angles we have proven that compounds NiSeO3, NiTeO3, CoSeO3, and CoTeO3 are in fact Perovskite salts. Additionally every bond in a unit cell of different length.  There is also a discrepancy between the magnetic energy of these compounds we calculated and those found in the experiment.
